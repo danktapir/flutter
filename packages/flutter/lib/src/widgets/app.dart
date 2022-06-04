@@ -1691,7 +1691,11 @@ class _WidgetsAppState extends State<WidgetsApp> with WidgetsBindingObserver {
               child: FocusTraversalGroup(
                 policy: ReadingOrderTraversalPolicy(),
                 child: child,
+<<<<<<< HEAD
 >>>>>>> fb57da5f945d02ef4f98dfd9409a72b7cce74268
+=======
+>>>>>>> ee4e09cce01d6f2d7f4baebd247fde02e5008851
+>>>>>>> 00e47a423a88a011cf733f1a6de119e930a63e92
               ),
             ),
           ),
